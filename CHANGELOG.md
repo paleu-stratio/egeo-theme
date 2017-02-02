@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.0 (upcoming)
+## 0.2.0 (February 02, 2017)
 
 * Rename repository from egeo-ui-fonts to egeo-theme.
 * Improve the scripts legibility with npm subtasks.
