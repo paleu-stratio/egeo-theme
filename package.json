@@ -1,6 +1,6 @@
 {
   "name": "egeo-theme",
-  "version": "0.3.0-RC1",
+  "version": "0.3.0",
   "license": "Apache-2.0",
   "description": "UI-Fonts library",
   "sasslintConfig": ".sass-lint.yml",
