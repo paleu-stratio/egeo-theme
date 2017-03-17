@@ -9,7 +9,7 @@
 
   <groupId>com.stratio.egeo</groupId>
   <artifactId>theme</artifactId>
-  <version>0.4.1-RC1-SNAPSHOT</version>
+  <version>0.4.1</version>
 
   <name>Egeo Theme</name>
 

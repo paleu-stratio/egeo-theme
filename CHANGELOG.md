@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.4.1 (upcoming)
+## 0.4.1 (March 17, 2017)
 
 * Fix release
 
