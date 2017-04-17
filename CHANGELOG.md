@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.6.0 (upcoming)
+## 0.6.0 (April 17, 2017)
 
 * Radio Theme
 * Add uppercase to st-page-title
