@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.7.0 (upcoming)
+## 0.7.0 (April 24, 2017)
 
 * Theme of breadcrumbs
 * Theme of info-card
