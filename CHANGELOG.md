@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.7.1 (upcoming)
+
+* Fix vertical tab styles
+
 ## 0.7.0 (April 24, 2017)
 
 * Theme of breadcrumbs
