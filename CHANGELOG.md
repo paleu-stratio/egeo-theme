@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.7.1 (upcoming)
+## 0.7.1 (April 28, 2017)
 
 * Fix vertical tab styles
 
