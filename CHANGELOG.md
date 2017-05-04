@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.1 (upcoming)
+
+* Fix textarea import
+
 ## 0.8.0 (May 04, 2017)
 
 * Theme of textarea
