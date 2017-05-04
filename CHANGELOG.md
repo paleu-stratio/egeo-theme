@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.8.1 (upcoming)
+## 0.8.1 (May 04, 2017)
 
 * Fix textarea import
 
