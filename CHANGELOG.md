@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.10.0 (upcoming)
+## 0.10.0 (June 05, 2017)
 
 * Fix form label
 * Update dependency with egeo-ui-base
