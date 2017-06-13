@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.11.0 (upcoming)
+## 0.11.0 (June 13, 2017)
 
 * Theme of radio menu
 * Update theme of page title with editable option
