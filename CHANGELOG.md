@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.12.0 (upcoming)
+## 0.12.0 (June 28, 2017)
 
 * Theme of tip
 * Theme of help
