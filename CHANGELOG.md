@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.14.1 (upcoming)
+## 0.14.1 (August 22, 2017)
 
 * Removed st-button and define new button classes
 
