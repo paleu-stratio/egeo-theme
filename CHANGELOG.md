@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.14.2 (upcoming)
+## 0.14.2 (September 12, 2017)
 * Fix broken button styles
 
 ## 0.14.1 (August 22, 2017)
