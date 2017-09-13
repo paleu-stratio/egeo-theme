@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.14.3 (upcoming)
+## 0.14.3 (September 13, 2017)
 * Fix bad background color to tool buttons with theme A
 
 ## 0.14.2 (September 12, 2017)
