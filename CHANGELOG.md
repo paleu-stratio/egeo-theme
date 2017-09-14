@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.14.4 (upcoming)
+## 0.14.4 (September 14, 2017)
 
 * Fix buttons squared border in active status
 
