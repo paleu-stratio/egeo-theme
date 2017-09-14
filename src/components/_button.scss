@@ -37,8 +37,7 @@
          cursor: pointer;
       }
       &:active {
-         border: solid 3px egeo-get-color(a1);
-         margin:-3px 0 -3px -3px;
+         box-shadow: 0 0 0 3px egeo-get-color(a1);
       }
    }
 
