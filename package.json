@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@stratio/egeo-ui-base": "1.4.1",
-    "clean-css": "3.4.20",
+    "clean-css": "4.2.1",
     "commitizen": "2.9.6",
     "cssnano": "3.10.0",
     "cz-conventional-changelog": "2.0.0",
