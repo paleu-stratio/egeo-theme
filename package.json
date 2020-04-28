@@ -2,7 +2,7 @@
   "name": "@stratio/egeo-theme",
   "version": "",
   "license": "Apache-2.0",
-  "description": "UI-Fonts library",
+  "description": "UI-Fonts library2",
   "sasslintConfig": ".sass-lint.yml",
   "scripts": {
     "replace": "json -I -f package.json -e",
